@@ -1,0 +1,16 @@
+.idea
+.DS_Store
+.venv
+venv
+env
+myenv
+*.pyc
+media
+static
+polygon
+tmp
+.env
+settings_dev.py
+__pycache__
+.docker/
+celerybeat-schedule.db
